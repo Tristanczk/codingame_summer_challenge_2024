@@ -1,0 +1,160 @@
+[2024-06-15 12:26:52] [Action] Run
+[2024-06-15 12:27:24] [Action] Add Bot first_bot
+[2024-06-18 16:27:15] [Action] Run
+[2024-06-18 16:28:31] [Action] Add Bot simul_bot_action_uint
+[2024-06-18 16:29:23] [Action] Add Bot 4_turns_simul_corrected_hurdle
+[2024-06-18 16:29:43] [Action] Show
+[2024-06-18 16:38:14] [Action] Show
+[2024-06-18 16:40:06] [Action] Add Bot simul_5_turns_uint8
+[2024-06-18 16:40:21] [Action] Add Bot simul_6_turns_uint8
+[2024-06-18 16:40:33] [Action] Show
+[2024-06-18 16:41:39] [Action] Show
+[2024-06-18 16:41:55] [Action] Run
+[2024-06-18 16:42:06] [Action] Show
+[2024-06-18 16:43:25] [Action] Show
+[2024-06-18 16:50:46] [Action] Show
+[2024-06-18 16:58:41] [Action] Show
+[2024-06-18 17:10:41] [Action] Show
+[2024-06-18 17:29:56] [Action] Add Bot simul_7_turns_good_archery
+[2024-06-18 17:30:00] [Action] Show
+[2024-06-18 17:30:10] [Action] Show
+[2024-06-18 17:30:55] [Action] Run
+[2024-06-18 17:32:12] [Action] Add Bot simul_7_turns_good_archery
+[2024-06-18 17:32:50] [Action] Run
+[2024-06-18 17:32:55] [Action] Add Bot simul_7_turns_good_archery
+[2024-06-18 17:33:08] [Action] Add Bot simul_6_turns_uint8
+[2024-06-18 17:33:14] [Action] Add Bot simul_5_turns_uint8
+[2024-06-18 17:33:24] [Action] Add Bot simul_bot_action_uint
+[2024-06-18 17:33:36] [Action] Add Bot 4_turns_simul_corrected_hurdle
+[2024-06-18 17:33:59] [Action] Add Bot dumb_bot
+[2024-06-18 17:34:07] [Action] Show
+[2024-06-18 17:34:15] [Action] Show
+[2024-06-18 17:34:18] [Action] Show
+[2024-06-18 17:34:58] [Action] Add Bot simul_4_turns_good_archery
+[2024-06-18 17:38:49] [Action] Show
+[2024-06-18 17:58:50] [Action] Show
+[2024-06-19 16:53:01] [Action] Run
+[2024-06-19 16:53:24] [Action] Show
+[2024-06-19 16:53:46] [Action] Add Bot genetic_algorithm
+[2024-06-19 16:54:59] [Action] Show
+[2024-06-19 17:10:02] [Action] Show
+[2024-06-21 15:36:29] [Action] Run
+[2024-06-21 15:37:26] [Action] Add Bot genetic_algorithm_v2
+[2024-06-21 15:38:35] [Action] Show
+[2024-06-21 15:40:14] [Action] Run
+[2024-06-21 15:40:43] [Action] Run
+[2024-06-21 15:40:53] [Action] Add Bot genetic_algorithm_v2
+[2024-06-21 15:40:59] [Action] Show
+[2024-06-21 15:41:09] [Action] Show
+[2024-06-21 15:41:19] [Action] Show
+[2024-06-21 15:42:27] [Action] Run
+[2024-06-21 15:42:32] [Action] Add Bot genetic_algorithm_v2
+[2024-06-21 15:44:35] [Action] Show
+[2024-06-21 15:45:40] [Action] Show
+[2024-06-21 15:48:45] [Action] Run
+[2024-06-21 15:49:58] [Action] Add Bot genetic_algorithm_v2
+[2024-06-21 15:52:58] [Action] Show
+[2024-06-21 15:57:05] [Action] Show
+[2024-06-21 16:10:14] [Action] Show
+[2024-06-21 16:12:54] [Action] Show
+[2024-06-21 16:17:09] [Action] Show
+[2024-06-21 16:20:41] [Action] Show
+[2024-06-21 17:52:34] [Action] Run
+[2024-06-21 17:52:43] [Action] Add Bot genetic_algorithm_v2
+[2024-06-21 17:54:45] [Action] Show
+[2024-06-21 17:58:32] [Action] Show
+[2024-06-21 17:59:10] [Action] Show
+[2024-06-23 14:07:57] [Action] Run
+[2024-06-23 14:08:15] [Action] Add Bot genetic_algorithm_v3
+[2024-06-23 14:08:21] [Action] Show
+[2024-06-23 14:18:06] [Action] Show
+[2024-06-23 14:20:11] [Action] Show
+[2024-06-23 14:26:06] [Action] Run
+[2024-06-23 14:26:36] [Action] Add Bot genetic_algorithm_v2
+[2024-06-23 14:31:59] [Action] Run
+[2024-06-23 14:32:24] [Action] Run
+[2024-06-23 14:32:37] [Action] Add Bot adringar_submitted
+[2024-06-23 14:33:11] [Action] Run
+[2024-06-23 14:36:45] [Action] Run
+[2024-06-23 14:36:55] [Action] Add Bot dhubleur_top50_gold
+[2024-06-23 14:37:35] [Action] Run
+[2024-06-23 14:37:41] [Action] Add Bot nfelsemb
+[2024-06-23 14:38:37] [Action] Run
+[2024-06-23 14:41:54] [Action] Run
+[2024-06-23 14:42:06] [Action] Run
+[2024-06-23 14:42:19] [Action] Add Bot simul_4_turns_good_archery
+[2024-06-23 14:42:45] [Action] Add Bot simul_5_turns_uint8
+[2024-06-23 14:42:51] [Action] Add Bot simul_6_turns_uint8
+[2024-06-23 14:43:02] [Action] Add Bot simul_7_turns_good_archery
+[2024-06-23 14:43:11] [Action] Add Bot genetic_algorithm_v3
+[2024-06-23 14:43:14] [Action] Add Bot genetic_algorithm_v4
+[2024-06-23 14:43:17] [Action] Add Bot genetic_algorithm_v5
+[2024-06-23 14:43:20] [Action] Add Bot genetic_algorithm_v6
+[2024-06-23 14:44:55] [Action] Run
+[2024-06-23 14:45:33] [Action] Run
+[2024-06-23 14:45:37] [Action] Add Bot genetic_algorithm_v6
+[2024-06-23 14:45:40] [Action] Add Bot genetic_algorithm_v7
+[2024-06-23 14:45:44] [Action] Add Bot genetic_algorithm_v8
+[2024-06-23 14:55:24] [Action] Show
+[2024-06-23 15:16:53] [Action] Show
+[2024-06-23 15:19:12] [Action] Show
+[2024-06-23 15:30:59] [Action] Show
+[2024-06-23 16:26:13] [Action] Run
+[2024-06-23 16:26:36] [Action] Add Bot genetic_algorithm_v9
+[2024-06-23 16:33:54] [Action] Show
+[2024-06-23 16:44:12] [Action] Show
+[2024-06-24 10:45:04] [Action] Show
+[2024-06-24 11:11:48] [Action] Run
+[2024-06-24 11:13:50] [Action] Run
+[2024-06-24 11:14:11] [Action] Add Bot genetic_algorithm_v10
+[2024-06-24 11:15:38] [Action] Show
+[2024-06-24 11:16:44] [Action] Show
+[2024-06-24 11:17:17] [Action] Run
+[2024-06-24 11:18:25] [Action] Show
+[2024-06-24 11:19:12] [Action] Show
+[2024-06-24 11:19:18] [Action] Run
+[2024-06-24 11:21:39] [Action] Run
+[2024-06-24 11:26:39] [Action] Add Bot genetic_algorithm_v11
+[2024-06-24 11:59:05] [Action] Show
+[2024-06-24 12:24:03] [Action] Show
+[2024-06-24 13:51:36] [Action] Show
+[2024-06-24 14:15:10] [Action] Run
+[2024-06-24 14:15:37] [Action] Add Bot genetic_algorithm_v12
+[2024-06-24 14:15:41] [Action] Add Bot genetic_algorithm_v13
+[2024-06-24 14:15:46] [Action] Add Bot genetic_algorithm_v14
+[2024-06-24 14:15:50] [Action] Add Bot genetic_algorithm_v15
+[2024-06-24 14:23:53] [Action] Show
+[2024-06-24 14:36:29] [Action] Show
+[2024-06-24 14:40:05] [Action] Run
+[2024-06-24 14:40:13] [Action] Add Bot genetic_algorithm_v12
+[2024-06-24 14:40:17] [Action] Add Bot genetic_algorithm_v13
+[2024-06-24 14:40:20] [Action] Add Bot genetic_algorithm_v14
+[2024-06-24 14:40:24] [Action] Add Bot genetic_algorithm_v15
+[2024-06-24 14:40:27] [Action] Add Bot genetic_algorithm_v16
+[2024-06-24 14:40:31] [Action] Add Bot genetic_algorithm_v17
+[2024-06-24 14:40:35] [Action] Add Bot genetic_algorithm_v18
+[2024-06-24 14:40:38] [Action] Add Bot genetic_algorithm_v19
+[2024-06-24 14:49:51] [Action] Show
+[2024-06-24 15:05:41] [Action] Show
+[2024-06-24 15:06:37] [Action] Run
+[2024-06-24 15:06:44] [Action] Add Bot genetic_algorithm_v16
+[2024-06-24 15:06:47] [Action] Add Bot genetic_algorithm_v17
+[2024-06-24 15:06:51] [Action] Add Bot genetic_algorithm_v18
+[2024-06-24 15:06:54] [Action] Add Bot genetic_algorithm_v19
+[2024-06-24 15:06:58] [Action] Add Bot genetic_algorithm_v20
+[2024-06-24 15:07:01] [Action] Add Bot genetic_algorithm_v21
+[2024-06-24 15:07:05] [Action] Add Bot genetic_algorithm_v22
+[2024-06-24 15:07:09] [Action] Add Bot genetic_algorithm_v23
+[2024-06-24 15:07:12] [Action] Add Bot genetic_algorithm_v24
+[2024-06-24 15:16:50] [Action] Show
+[2024-06-24 15:30:33] [Action] Show
+[2024-06-24 15:44:18] [Action] Show
+[2024-06-24 15:58:27] [Action] Show
+[2024-06-24 16:11:05] [Action] Show
+[2024-06-24 16:11:17] [Action] Add Bot genetic_algorithm_v25
+[2024-06-24 16:11:21] [Action] Add Bot genetic_algorithm_v26
+[2024-06-24 16:11:24] [Action] Add Bot genetic_algorithm_v27
+[2024-06-24 16:11:35] [Action] Add Bot genetic_algorithm_v28
+[2024-06-24 16:26:10] [Action] Show
+[2024-06-24 16:36:48] [Action] Show
+[2024-06-24 17:21:43] [Action] Show
